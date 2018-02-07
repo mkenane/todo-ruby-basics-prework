@@ -9,7 +9,8 @@ def assign_variable(value)
   return  x 
 end
 
-def argue
+def argue(arugment)
+  return argument 
   
 end
 
