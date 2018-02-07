@@ -1,5 +1,6 @@
 def division(num1, num2)
-  return num2/num1
+  var quotient =  num2/num1
+  return quotient
  
 end
 
