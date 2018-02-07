@@ -6,7 +6,7 @@ end
 
 def assign_variable(value)
   var x = value 
-  reutrn x 
+  return  x 
 end
 
 def argue
