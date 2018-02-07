@@ -5,7 +5,8 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  
+  var x = value 
+  reutrn x 
 end
 
 def argue
