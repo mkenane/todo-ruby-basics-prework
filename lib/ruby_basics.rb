@@ -22,7 +22,7 @@ return "Nice"
 end
 
 def last_evaluated_value
-  "expert"
+ phrase = "expert"
 
 end
 
